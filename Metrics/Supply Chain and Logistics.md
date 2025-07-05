@@ -22,10 +22,8 @@
 > **Formula:**
 >
 > ```
-> OTD Rate = (Total Number of Deliveries / Number of On-Time Deliveries) × 100%
+> OTD Rate = (Number of On-Time Deliveries / Total Number of Deliveries) × 100%
 > ```
->
-> _**Note on the formula:** While the provided formula is `(Total Number of Deliveries / Number of On-Time Deliveries) × 100%`, the standard and logically correct formula for On-Time Delivery Rate (based on the definition) is typically: `(Number of On-Time Deliveries / Total Number of Deliveries) × 100%`. Please ensure you are using the formula that aligns with your specific definition and calculation methodology._
 
 ---
 
