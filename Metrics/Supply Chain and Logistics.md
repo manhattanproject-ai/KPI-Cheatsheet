@@ -550,7 +550,7 @@
 
 ---
 
-## 🚚 Supplier On-Time Delivery (Supplier OTD)
+### 1. 🚚 Supplier On-Time Delivery (Supplier OTD)
 
 > **Definition:** The percentage of orders received from suppliers that arrive on or before the promised delivery date.
 >
@@ -573,7 +573,7 @@
 
 ---
 
-## ⏱️ Supplier Lead Time
+### 2. ⏱️ Supplier Lead Time
 
 > **Definition:** The average time from placing an order with a supplier until the goods are received.
 >
@@ -597,7 +597,7 @@
 
 ---
 
-## 🔍 Supplier Quality / Defect Rate
+### 3. 🔍 Supplier Quality / Defect Rate
 
 > **Definition:** The percentage of goods received from suppliers that meet quality standards (i.e., are not defective).
 >
