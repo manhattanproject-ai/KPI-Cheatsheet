@@ -1,6 +1,6 @@
 # Clickstream Data - Cheatsheet 
 
-## Introduction-What-is-Cliick Stream Data ?
+## Introduction-What-is-Click Stream Data ?
 
 > Clickstream data is the trail of clicks a user makes while navigating a website or application. It records every action, such as what pages were viewed, in what order, and how long the user spent on each page. This datacan include information like the user's IP address, browser type, operating system, and referring URL.
 > It's called "clickstream" because it's a continuous stream of user activity, like a stream of water, where each click is a point in that flow.
